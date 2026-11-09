@@ -7,6 +7,12 @@
 
 ***このアプリは、作者が仕様を決め、Codexを使って実装・修正しました。
 
+## APKのダウンロード
+
+**[署名済みAPK v0.2をダウンロード](https://github.com/minillatk/as300-remote/releases/download/v0.2/AS300-Remote-0.2-release.apk)**
+
+配布ファイルはリリースページの「Assets」にあります。[リリース v0.2](https://github.com/minillatk/as300-remote/releases/tag/v0.2)
+
 ## 実機で試す
 
 1. APKをPRA-LX2にコピーし、スマホのファイルアプリで開いてインストールします。OSが求めた場合は、APKを開いたアプリにインストールを許可します。
